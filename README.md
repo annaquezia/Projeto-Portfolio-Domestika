@@ -13,7 +13,8 @@ Com este portfólio consegui aprender conceitos de HTML e CSS que me deixaram ma
 ### saiba mais sobre mim :dizzy:
 Sou uma estudante de Engenharia de Software na PUCPR. Gosto de criar projetos únicos que transmitam a minha persolidade e minhas paixões.
 
-<img scr='https://github.com/user-attachments/assets/00d6762a-499c-4a0e-aaac-36795bf40dd2' width='30%'/>
-
-![anna_pagina_inicial](https://github.com/user-attachments/assets/e899622c-7e64-4570-85b9-2d818fe83838)
-
+<div>
+<a href="https://instagram.com/annaquezia_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:annaquezia.dossantos@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/anna-quézia-dos-santos-6b0739298/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
